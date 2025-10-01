@@ -36,11 +36,6 @@ Supports TXT export and multi-language interface (TW/CN/EN).
 ## ⚙️ Changed / Improved
 - Default values and ranges for username and password adjusted for more flexibility
 
-## ⚠️ Note
-- Tool is intended for local testing and educational purposes only  
-- Does not register Microsoft accounts automatically  
-- Illegal or abusive usage is strictly prohibited
-
 ---
 
 ## 📜 License
