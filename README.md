@@ -21,13 +21,13 @@ Supports TXT export and multi-language interface (TW/CN/EN).
 
 ---
 
-v1.1.0 – Release Notes
+## v1.1.0 – Release Notes
 
 **Release Date:** 2025-10-02
 
 ## 🆕 Added
 - Email type selection changed to numeric menu (1=Outlook, 2=Hotmail, 3=Both)  
-- Multi-language support added: Japanese (`jp`) and Korean (`kr`)
+- Multi-language support added: Japanese (jp) and Korean (kr)
 
 ## 🐛 Fixed
 - Usernames must start with a letter to prevent registration errors  
